@@ -11,7 +11,7 @@
 <jsp:include page="fragments/htmlHeader.jsp"/>
 
 <body>
-<petclinic:bodyHeader menuName="home"/>
+<petclinic:bodyHeader menuName="homeee"/>
 
 <div class="container-fluid">
     <div class="container xd-container">
